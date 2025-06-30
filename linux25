@@ -1,0 +1,3 @@
+cd-current directory 
+ls-list all files
+git ls-files : gives all git files
